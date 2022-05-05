@@ -154,7 +154,7 @@ DATABASES = {
         'HOST': 'localhost',
         'NAME': 'new_erp',
         'USER': 'root',
-        'PASSWORD': 'nimiatsami12@',
+        'PASSWORD': ,
         'PORT': '3306',
     },
     # 'log_db': {
